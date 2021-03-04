@@ -4,6 +4,7 @@
   "description": "Velkommen til mit GitHub repository.",
   "main": "index.js",
   "scripts": {
+    "sass": "node-sass --output-style compressed -o css/ css/ --source-map true",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
