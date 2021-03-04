@@ -1,0 +1,23 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "Velkommen til mit GitHub repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGubbys/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGubbys/website/issues"
+  },
+  "homepage": "https://github.com/TheGubbys/website#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0",
+    "onchange": "^7.1.0"
+  }
+}
